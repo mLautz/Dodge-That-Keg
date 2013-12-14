@@ -1,0 +1,10 @@
+{
+  "name": "Dodge That Keg!",
+  "version": "0.1",
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "manifest_version": 2
+}
